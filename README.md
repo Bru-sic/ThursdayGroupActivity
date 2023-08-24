@@ -58,13 +58,18 @@ Add a level 2 header for the README description.
 
 Add a level 3 header for the README table of contents.
 
-### Table of Contents
+---
 
 Add links to each subfolder within the table of contents.
+
+### Table of Contents
 [Title](#title)
+
 [Description](#description)
+
 [Title](#table-of-contents)
 
+---
 
 Push the changes to the remote git repository.
 
