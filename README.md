@@ -1,8 +1,5 @@
 # ThursdayGroupActivity
 
-Hi - I'm Bruno here.
-
-My background is 
 
 Complete the following steps.
 
